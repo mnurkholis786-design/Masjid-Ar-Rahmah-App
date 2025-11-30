@@ -6,6 +6,6 @@ Kelas: TI 24 B
 Repository ini dibuat untuk belajar manajemen konfigurasi dan version control. Proyek ini adalah pengembangan **Masjid Ar-Rahmah App**, aplikasi jadwal adzan, kegiatan, dan donasi masjid.
 
 ## Progress Belajar
-- [ ] Setup Git lokal
-- [ ] Buat repository GitHub
+- [x] Setup Git lokal
+- [x] Buat repository GitHub
 - [ ] Commit pertama
